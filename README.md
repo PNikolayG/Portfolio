@@ -14,3 +14,9 @@
 ### Feature engineering и предобработка данных (или машинное обучение)
 
 ## 5.Final project by using CrispDM
+
+## 6.Study project by using NN (Neural Network)
+
+## 7.Study project by using RNN (Recurrent (Neural Network)
+
+## 8.Study project by using NLP methods for case Thematic Modeling and classification
