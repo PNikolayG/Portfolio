@@ -20,3 +20,7 @@
 ## 7.Study project by using RNN (Recurrent (Neural Network)
 
 ## 8.Study project by using NLP methods for case Thematic Modeling and classification
+
+## 9.Study project by using CV (Computer Vision) methods for case MNIST from Kaggle
+
+## 10.Study project by using CV (Computer Vision) methods for case Cats and Dogs from Kaggle
