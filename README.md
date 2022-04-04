@@ -41,3 +41,28 @@
 ## 10.Study project by using CV (Computer Vision) methods for case Cats and Dogs from Kaggle
 
 ### cv2, numpy, tensorflow, tensorflow.keras.applications(vgg16), matplotlib.pyplot, re
+
+## 11.Study project by using TS (Time series) 
+
+### pandas, numpy, matplotlib.pyplot, statsmodels.tsa.stattools(adfuller),statsmodels.api(sm), statsmodels.tsa.api(smt), scipy.stats(boxcox)
+
+## 12.Study project by using TS (Time series) - Elemenatry Analysis
+
+### pandas, numpy, matplotlib.pyplot, sklearn.model_selection(TimeSeriesSplit), scipy.optimize(minimize), sklearn.metrics(mean_squared_error)
+
+## 13.Study project by using TS (Time series) - ARIMA
+
+## 14.Study project by using TS (Time series) - Singular Spectral Analysis
+
+## 15.Study project by using RS (Recommendation Systems) - Content Recommendation
+
+### pandas, numpy, matplotlib.pyplot, datetime, tqdm, sklearn.feature_extraction.text(TfidfTransformer, CountVectorizer), sklearn.model_selection(train_test_split)
+
+## 16.Study project by using RS (Recommendation Systems) - Colloborative Filtering
+
+### pandas, surprise(KNNWithMeans, Dataset, accuracy, Reader, train_test_split)
+
+## 17.Study project by using RS (Recommendation Systems) - Hybrid Recommendation
+
+### pandas, numpy, matplotlib.pyplot, tqdm, sklearn.feature_extraction.text(TfidfTransformer, CountVectorizer), sklearn.neighbors(NearestNeighbors), surpriseSVD, SVDpp, Dataset, accuracy, Reader, train_test_split)
+
