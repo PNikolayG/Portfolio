@@ -21,6 +21,7 @@
 ### pandas, numpy, sklearn.tree(DecisionTreeClassifier), sklearn.linear_model(LogisticRegression), sklearn.neighbors(KNeighborsClassifier), sklearn.naive_bayes(GaussianNB), sklearn.svm(SVC, LinearSVC), sklearn.ensemble(RandomForestClassifier, GradientBoostingClassifier)
 ### sklearn.impute(SimpleImputer), sklearn.preprocessing (Normalizer, scale), sklearn.model_selection(train_test_split, StratifiedKFold), sklearn.feature_selection(RFECV)
 ### matplotlib, seaborn
+### POWER BI, EXCEL report with visualization
 
 ## 6.Study project by using NN (Neural Network)
 
